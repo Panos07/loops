@@ -3,7 +3,7 @@ os.system("cls")
 
 
 for i in range(10):
-    aritmos=float(input("Δώσε μου έναν αριθμό "))
+    number=float(input("Give me a number"))
     
     if (aritmos%2==0):
         print("είναι ζυγός")
