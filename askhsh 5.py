@@ -6,5 +6,5 @@ for counter in range(10):
     yournumber=int(input("gine me a number "))
     sum=sum+yournumber
     
-mo=sum/10
-print(mo)
+average=sum/10
+print(average)
