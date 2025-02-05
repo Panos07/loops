@@ -6,7 +6,7 @@ for i in range(10):
     number=float(input("Give me a number"))
     
     if (number%2==0):
-        print("είναι ζυγός")
+        print("the number is even")
     else:
-        print("είναι περιττός")
+        print("the number is odd")
     
